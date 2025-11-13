@@ -4,7 +4,7 @@
     </a>
 </h2>
 <h2 align="center">
-   HỆ THỐNG ĐIỀU PHỐI HIẾN MAU VÀ CỨU NẠN KHẨN CẤP DỰA TRÊN NỀN TẢNG DỮ LIỆU VÀ ĐỊNH VỊ SỐ
+   HỆ THỐNG ĐIỀU PHỐI HIẾN MÁU VÀ CỨU NẠN KHẨN CẤP DỰA TRÊN NỀN TẢNG DỮ LIỆU VÀ ĐỊNH VỊ SỐ
 </h2>
 <div align="center">
     <p align="center">
