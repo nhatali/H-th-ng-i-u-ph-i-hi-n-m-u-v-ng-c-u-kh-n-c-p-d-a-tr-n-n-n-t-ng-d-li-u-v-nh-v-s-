@@ -98,23 +98,8 @@ Hệ thống giúp **tối ưu hóa việc điều phối máu và cứu trợ**
 - Nếu muốn mở rộng: cài đặt web server (Apache, Node.js) để lưu dữ liệu thật.  
 
 ### 5.2 Cấu trúc dự án
-blood_donation_system/
-│
-├─ index.html # Trang chủ, thống kê
-├─ map.html # Bản đồ điểm hiến máu
-├─ donors-info.html # Thông tin người hiến
-├─ schedule.html # Đăng ký lịch hiến
-├─ rescue.html # Gửi yêu cầu cứu nạn
-├─ news.html # Tin tức hiến máu
-├─ login.html # Đăng nhập
-├─ register.html # Đăng ký người dùng
-│
-├─ css/
-│ └─ style.css
-├─ js/
-│ └─ main.js
-├─ img/ # Hình ảnh, avatar, logo
-└─ docs/ # Ảnh minh họa, logo
+
+![alt text](image-5.png)
 
 ### 5.3 Chạy hệ thống
 1. Mở **index.html** trên trình duyệt.  
